@@ -1,1 +1,4 @@
-Prompt For Bashrcn Yeah this is just my bashrc prompt. This is how it looks in my home dir [./bashrc-photo.png]
+* Prompt:
+For Bashrc Yeah this is just my bashrc prompt.
+This is how it looks in my home dir
+[[./bashrc-photo.png]]
